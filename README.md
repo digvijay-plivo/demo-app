@@ -1,8 +1,8 @@
 # demo-app
 Test SMS/Voice with Plivo
-
-
-
+.
+.
+.
 
 Demo SMS:-
 
@@ -20,7 +20,9 @@ Now, add the desired destination number and the message content in the respectiv
 
 Now, click on Send and the message will be sent to the destination number.
 
-
+.
+.
+.
 
 Demo Voice Call:
 
